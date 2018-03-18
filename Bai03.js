@@ -12,3 +12,8 @@ for(var i=0;i<mang.length;i++)
     console.log("mang["+i+"] = "+ mang[i]);
 }
 
+fshfdjvkjnvfdsnmgds
+dsgfds
+SVGFEDiffuseLightingElementgfdg
+fshfdjvkjnvfdsnmgdsfgfd
+SVGFEDiffuseLightingElementdfg
